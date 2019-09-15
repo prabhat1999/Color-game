@@ -1,0 +1,21 @@
+body{
+    background: rgb(75, 75, 75);
+}
+
+#header{
+    text-align: center;
+    padding-top: 10px;
+    background: rgb(138, 138, 138);
+}
+@media(min-width: 990px){
+    .center> .row{
+        margin-left: 12vw;
+     }
+}
+
+
+.colbox{
+    
+    margin: 10px;
+    height: 25vh;
+}
