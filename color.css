@@ -1,5 +1,6 @@
 body{
     background: rgb(75, 75, 75);
+    text-align: center;
 }
 
 #header{
@@ -7,12 +8,20 @@ body{
     padding-top: 10px;
     background: rgb(138, 138, 138);
 }
+
+.strip{
+    background: white;
+    width: 100%;
+    margin-top: -7px;
+}
 @media(min-width: 990px){
     .center> .row{
         margin-left: 12vw;
      }
 }
-
+/* #message{
+    color: white;   
+} */
 
 .colbox{
     
